@@ -33,7 +33,6 @@ exit
 enable secret salim
 exit
 copy running-config startup-config
-
 ---
 
 ## Verification
