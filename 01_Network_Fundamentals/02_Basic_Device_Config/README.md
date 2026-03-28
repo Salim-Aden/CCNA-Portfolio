@@ -23,17 +23,18 @@ Configure initial router settings: hostname, MOTD banner, console password, and 
 
 ## Configuration
 
-|''enable|
-|''configure terminal|
-|''hostname R1|
-|''banner motd #UNAUTHORIZED ACCESS PROHIBITED#|
-|''line console 0|
-|''password cisco|
-|''login|
-|''exit|
-|''enable secret salim|
-|''exit|
-|''copy running-config startup-config|
+''enable
+''configure terminal
+''hostname R1
+''banner motd #UNAUTHORIZED ACCESS PROHIBITED#
+''line console 0
+''password cisco
+''login
+''exit
+''enable secret salim
+''exit
+''copy running-config startup-config
+
 ---
 
 ## Verification
