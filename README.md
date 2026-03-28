@@ -1,7 +1,7 @@
 # CCNA-Portfolio
 ## 👋 About Me
 
-I'm **Salim Aden**, a CCNA-certified network engineer with hands-on experience building, configuring, and troubleshooting networks. This portfolio documents every lab I completed during my CCNA journey.
+I'm **Salim Aden**,a CCNA-certified with hands-on home lab experience building, configuring, and troubleshooting networks. This portfolio documents every lab I completed during my CCNA journey.
 
 **Certification:** Cisco Certified Network Associate (CCNA) — March 2026
 
