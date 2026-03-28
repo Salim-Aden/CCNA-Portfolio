@@ -29,9 +29,7 @@ I'm **Salim Aden**, a CCNA-certified network engineer with hands-on experience b
 | **04 IP Services** | NAT, DHCP, HSRP, NTP, DNS |
 | **05 Security Fundamentals** | ACLs (standard/extended), SSH, port security |
 | **06 Automation** | REST APIs, JSON, YAML, Ansible |
-| **07 Final Projects** | Complete network builds integrating all topics |
-| **08 Topology Diagrams** | Network diagrams used in labs |
-**09 Troubleshooting** | Break/fix scenarios, systematic troubleshooting methodology |
+  **07 Troubleshooting** | Break/fix scenarios, systematic troubleshooting methodology |
 
 
 ## 🔗 Connect With Me
