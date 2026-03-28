@@ -16,7 +16,7 @@ I'm **Salim Aden**, a CCNA-certified network engineer with hands-on experience b
 | **Security** | Standard/Extended ACLs, SSH, Port Security, DHCP Snooping |
 | **Automation & Programmability** | REST APIs, JSON, YAML, Ansible Concepts |
 | **Troubleshooting Tools** | `show` commands, ping, traceroute, debug |
-| **Simulation Tools** | Cisco Packet Tracer, Git |
+| **Simulation Tools** | Cisco Packet Tracer|
 
 
 ## 📁 Lab Structure
