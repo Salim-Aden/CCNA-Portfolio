@@ -22,6 +22,7 @@ Configure initial router settings: hostname, MOTD banner, console password, and 
 ---
 
 ## Configuration
+
 enable
 configure terminal
 hostname R1
