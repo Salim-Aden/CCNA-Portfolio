@@ -13,7 +13,7 @@ Verification confirms the static routes appear in the routing table with an `S` 
 
 ## Network Topology
 
-![Topology(1)](topology(1).png)
+![topology](topology.png)
 
 ---
 
@@ -86,7 +86,7 @@ The `S` entry confirms the static route to PC2's network is installed and forwar
 
 ### End-to-End Connectivity — PC1 → PC2
 
-![Verification ping](verification_ping.png)
+![verification ping](verification_ping.png)
 
 ```
 C:\> ping 192.168.2.10
