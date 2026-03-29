@@ -15,7 +15,7 @@
 
 ## Network Topology
 
-![Network Topology](topology.png)
+![topology](topology.png)
 
 ```
 PC1 (VLAN 10) ──┐
@@ -88,7 +88,7 @@ interface GigabitEthernet0/1
 
 ### VLAN Assignment — SW1
 
-![VLAN Verification](verification_SW1.png)
+![verificationsw1](verificationsw1.png)
 
 ```
 SW1# show vlan brief
@@ -102,7 +102,7 @@ VLAN  Name    Status    Ports
 
 ### Interface Status — R1
 
-![Interface Verification](verification_R1.png)
+![verificationr1](verificationr1.png)
 
 ```
 R1# show ip interface brief
@@ -117,7 +117,7 @@ GigabitEthernet0/0.20  192.168.20.1   up        up
 
 ### End-to-End Connectivity — PC1 → PC2
 
-![Ping Verification](verification_pc1.png)
+![verification](verificationpc1.png)
 
 ```
 C:\> ping 192.168.20.10
