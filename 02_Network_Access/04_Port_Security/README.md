@@ -48,7 +48,7 @@ Total MAC Addresses        : 1
 Sticky MAC Addresses       : 1
 Security Violation Count   : 0
 
-![Verification](Verification.png)
+![verification](verification.png)
 
 ## What This Proves
 
