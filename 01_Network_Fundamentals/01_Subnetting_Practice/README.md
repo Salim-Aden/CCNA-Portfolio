@@ -40,37 +40,26 @@ Given: **192.168.10.0/24**
 int g0/0: 192.168.10.1/30
 int g0/1: 192.168.10.65/26
 
-text
-
 ### Router R2
 int g0/0: 192.168.10.2/30
 int g0/1: 192.168.10.129/27
-
-text
 
 ### Switch SW1
 g0/1: trunk
 f0/1: access vlan 1
 
-text
-
 ### Switch SW2
 g0/1: trunk
 f0/1: access vlan 1
-
-text
 
 ### PC1
 IP: 192.168.10.66/26
 Gateway: 192.168.10.65
 
-text
-
 ### PC2
 IP: 192.168.10.130/27
 Gateway: 192.168.10.129
 
-text
 ---
 
 ## Verification
