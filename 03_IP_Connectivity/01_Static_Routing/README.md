@@ -13,7 +13,7 @@ Verification confirms the static routes appear in the routing table with an `S` 
 
 ## Network Topology
 
-![Topology](topology.png)
+![Topology(1)](topology(1).png)
 
 ---
 
