@@ -25,7 +25,7 @@ I'm **Salim Aden**,a CCNA-certified with hands-on home lab experience building, 
 |--------|--------|
 | **01 Network Fundamentals** | Subnetting, OSI model, TCP/UDP, cabling |
 | **02 Network Access** | VLANs, trunking, STP, EtherChannel, port security |
-| **03 IP Connectivity** | Static routing, OSPF (single-area, multi-area) |
+| **03 IP Connectivity** | Static routing, OSPF (single-area, multi-area) | Router-on-a-stick |
 | **04 IP Services** | NAT, DHCP, HSRP, NTP, DNS |
 | **05 Security Fundamentals** | ACLs (standard/extended), SSH, port security |
 | **06 Automation** | REST APIs, JSON, YAML, Ansible |
