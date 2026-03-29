@@ -76,7 +76,7 @@ ip route 192.168.1.0 255.255.255.0 10.0.0.1
 
 ### Routing Table — R1
 
-![verification](verification_route.png)
+![verification](verification.png)
 
 ```
 R1# show ip route
