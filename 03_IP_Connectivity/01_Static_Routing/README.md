@@ -7,7 +7,8 @@ In this lab, two routers are connected via a `/30` point-to-point link and confi
 
 R1 is connected to PC1's network (`192.168.1.0/24`) on its `G0/1` interface and links to R2 via `G0/0` using the `10.0.0.0/30` subnet. R2 mirrors this on the opposite side, connecting to PC2's network (`192.168.2.0/24`). Since neither router runs a dynamic routing protocol, a static route is manually added on each — R1 is told to reach `192.168.2.0/24` via R2's IP (`10.0.0.2`), and R2 is told to reach `192.168.1.0/24` via R1's IP (`10.0.0.1`). Both routes must exist for bidirectional communication to work.
 
-Verification confirms the static routes appear in the routing table with an `S` flag and that PC1 can successfully ping PC2 with 0% packet loss.
+Verification confirms the static routes appear in the routing table with an `S` flag and that PC1 can 
+successfully ping PC2 with 0% packet loss.
 
 ---
 
