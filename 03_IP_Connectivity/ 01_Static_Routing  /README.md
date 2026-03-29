@@ -33,6 +33,7 @@ successfully ping PC2 with 0% packet loss.
 
 ## Configuration
 
+
 ### Router R1
 
 ```cisco
