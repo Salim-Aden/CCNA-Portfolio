@@ -37,16 +37,12 @@ STP is essential for redundant networks. Without it, broadcast storms would cras
 spanning-tree vlan 1 priority 4096
 
 
-
 ### SW2 (Secondary Root)
 spanning-tree vlan 1 priority 8192
 
 
-
 ### SW3 (Default)
 Default STP priority 32768 (no configuration needed)
-
-
 
 ---
 
