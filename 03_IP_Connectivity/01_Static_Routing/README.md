@@ -86,7 +86,7 @@ The `S` entry confirms the static route to PC2's network is installed and forwar
 
 ### End-to-End Connectivity — PC1 → PC2
 
-![verification r1](verification r1.png)
+![verificationr1](verificationr1.png)
 
 ```
 C:\> ping 192.168.2.10
