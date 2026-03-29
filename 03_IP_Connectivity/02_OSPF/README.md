@@ -162,4 +162,4 @@ Packets: Sent = 4, Received = 4, Lost = 0 (0% loss)
 
 ---
 
-*Documented by **Salim Aden** — [CCNA Networking Labs Portfolio](../../README.md)*
+*Documented by Salim Aden*
