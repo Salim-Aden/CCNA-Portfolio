@@ -4,7 +4,7 @@
 
 # Lab Summary
 
-This final lab demonstrates my ability to **design, diagnose, and repair a complex enterprise network outage** using a systematic troubleshooting methodology.
+In this final lab i demonstrated my ability to **design, diagnose, and repair a complex enterprise network outage** using a systematic troubleshooting methodology.
 
 The network was first configured and verified in a fully operational state.  
 A duplicate environment was then intentionally broken with **nine configuration failures** to simulate a real-world outage scenario.
