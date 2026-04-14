@@ -4,7 +4,7 @@
 
 ## Overview
 
-This section covers the **Automation & Programmability**. These topics involve APIs, scripting, and automation tools that go beyond router/switch CLI. Understanding is demonstrated through concept documentation and practical examples — there are no Packet Tracer labs for this domain.
+In this section i cover the **Automation & Programmability** domain. These topics involve APIs, scripting, and automation tools that go beyond router/switch CLI. Understanding is demonstrated through concept documentation and practical examples — there are no Packet Tracer labs for this domain.
 
 ---
 
