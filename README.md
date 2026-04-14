@@ -1,7 +1,7 @@
 # CCNA-Portfolio
-## 👋 About Me
 
-I'm **Salim Aden**,a CCNA-certified with hands-on home lab experience building, configuring, and troubleshooting networks. This portfolio documents every lab I completed during my CCNA journey.
+
+***Welcome*** to my CCNA-certified networking portfolio, where I showcase hands-on home lab experience building, configuring, and troubleshooting networks. This repository documents every lab I completed during my CCNA journey using **Cisco Packet Tracer**.
 
 **Certification:** Cisco Certified Network Associate (CCNA) — March 2026
 
